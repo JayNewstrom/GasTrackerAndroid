@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="gas_tracker">Gas Tracker</string>
+    <string name="gps_disabled">GPS Disabled</string>
+    <string name="invalid_price_format">Invalid price format</string>
+    <string name="location_not_found_try_later">Location not found. Try again later.</string>
+    <string name="price">Price</string>
+    <string name="price_saved">Price Saved</string>
+    <string name="refetch_location">Refetch Location</string>
+    <string name="save">Save</string>
+
+</resources>
